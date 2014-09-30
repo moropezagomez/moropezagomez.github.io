@@ -1,7 +1,7 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(new.jpg) repeat;
+  background: url(new.jpg) ;
   color: DarkGoldenRod;
 
   text-align: left;
@@ -22,8 +22,6 @@ h5 {
 p {
     color: black;
     text-align: left;
-
-
 }
 
 
