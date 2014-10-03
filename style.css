@@ -53,3 +53,11 @@ div.boxx
             margin: 4px 4px 0px 4px;
             color: black
         }
+@font-face {
+    font-family: myFirstFont;
+    src: url(Existence-Light.otf);
+}
+
+div {
+    font-family: myFirstFont;
+}
