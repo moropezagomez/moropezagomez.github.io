@@ -26,7 +26,10 @@ p {
     color: black;
     text-align: left;
 }
-
+ #motto {
+  color: white:
+  text-align: center;
+ }
 
 #wrapper {
   width: 960px;
@@ -60,4 +63,43 @@ div.boxx
 
 div {
     font-family: myFirstFont;
+}
+
+table#t01 {
+    width: 100%; 
+    background-color: black;
+}
+table#t01 tr:nth-child(even) {
+    background-color: white;
+}
+table#t01 tr:nth-child(odd) {
+    background-color: white;
+}
+table#t01 th {
+    color: white;
+    background-color: black;
+}
+
+
+div #l2 {
+  background-color: #F0F0F0; 
+  color:DarkGoldenRod; 
+  margin: 5px; 
+  padding: 2px;
+  line-height: 5px; 
+  border-radius: 9999999px;
+  border: 2px solid black;
+}
+
+div #logo{
+  float: right;
+}
+
+div #logo2{
+  float: left;
+}
+
+div #l2 {
+  clear: right;
+  clear: left;
 }
