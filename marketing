@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bootstrap Me</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+<div class="jumbotron text-center"> 
+<h1> THE BEST COOKIES ON THE PLANET </h1>
+<h2>  DO NOT BE THE LEFT WITHOUT ONE </h2>
+<section> 
+<a href="http://www.cookies.com/" class="btn btn-success"> buy NOOOOOOOOOOOOOOW </a>
+</section>
+
+</div>
+
+	<div class="row">
+		<div class="col-sm-12" > 
+
+		</div>
+
+	<div class="row">
+		<div class="col-sm-4" > 
+			<h1>  SO TASY </h1>
+			<img src="http://www.residentadvisor.net/images/profiles/tastycookies.jpg" style="width:200px;height:200px" class="img-rounded">
+      <li>Great chocolate taste</li>
+		<li>Nice 'n crunchy</li>
+		<li>Real pieces of twix</li>
+
+
+		</div>
+
+		<div class="col-sm-4" > 
+			<h1>  SO WARM </h1>
+			<img src="http://foodporndaily.com/pictures/warm-chewy-bittersweet-chocolate-chip-cookies-sprinkled-with-sea-salt.jpg" style="width:200px;height:200px" class="img-rounded">
+		<li>Right from the overn</li>
+		<li>Wow so yummy</li>
+		<li>Goooooooey nice</li>
+		</div>
+
+		<div class="col-sm-4" > 
+			<h1>  SO ENORMOUS </h1>
+			<img src="http://2.bp.blogspot.com/_NLo6sXVHd3o/TEoy9EshbbI/AAAAAAAAARI/_sVZ7jfdauI/s400/bigger_in_texas_cookies+006b.jpg" style="width:200px;height:200px" class="img-rounded">
+		<li>The size of a pizza</li>
+		<li>You'll need a fork</li>
+		<li>Could be a wheel</li>
+		</div>
+
+
+
+
+</body>
+</html>
